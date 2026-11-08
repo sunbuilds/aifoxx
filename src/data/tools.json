@@ -52668,4 +52668,54 @@
       "Software"
     ]
   }
+,
+  {
+    "featured": false,
+    "status": "active",
+    "last_verified": "2026-11-08",
+    "access_methods": [
+      "Web App"
+    ],
+    "compliance": {
+      "soc2": null,
+      "iso27001": null,
+      "gdpr": null,
+      "hipaa": null
+    },
+    "compliance_sources": {},
+    "data_storage": {
+      "region": null,
+      "trains_on_data": null,
+      "self_hostable": null
+    },
+    "id": "1027",
+    "name": "Everygen AI",
+    "slug": "everygen-ai",
+    "category": "Video",
+    "subcategory": "AI Video Generation",
+    "description": "Browser-based creative workspace for text-to-video, image-to-video, text-to-image, and image-to-image workflows.",
+    "url": "https://everygenai.org/",
+    "tags": [
+      "ai video generator",
+      "text to video",
+      "image to video",
+      "image generation"
+    ],
+    "pricing": "Freemium",
+    "pricing_detail": {
+      "free_tier": null,
+      "paid_plans": null,
+      "api_cost": null
+    },
+    "use_cases": [
+      "Creating short videos from text prompts or reference images",
+      "Generating images from text prompts or reference images",
+      "Exploring template-based generative media workflows"
+    ],
+    "not_good_for": [],
+    "industries": [
+      "Software",
+      "Media"
+    ]
+  }
 ]
